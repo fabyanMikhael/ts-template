@@ -3,6 +3,8 @@
         "swc": true
     },
     "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "ES2021",
         "esModuleInterop": true
     }
 }
